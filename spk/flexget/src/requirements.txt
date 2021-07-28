@@ -48,7 +48,7 @@ tempora==1.8
 terminaltables==3.1.0
 transmissionrpc==0.11
 tzlocal==1.4
-urllib3==1.25.11
+urllib3==1.26.5
 webencodings==0.5.1
 werkzeug==0.15.6
 zc.lockfile==2.0
