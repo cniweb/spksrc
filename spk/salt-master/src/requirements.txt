@@ -11,3 +11,4 @@ jaraco.functools==1.17
 portend==2.2
 tempora==1.10
 futures==3.3.0
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
