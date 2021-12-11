@@ -1,4 +1,4 @@
-beets==1.4.9
+beets==1.6.0
 
 # Direct dependencies
 # six>=1.10.0          ==> included in python3 package installation
