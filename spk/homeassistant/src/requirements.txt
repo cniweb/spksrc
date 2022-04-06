@@ -82,7 +82,7 @@ brother==0.1.14           # for brother printer
 # for flunearyou
 pyflunearyou==1.0.7
 msgpack==0.6.2
-ujson==1.35
+ujson==5.2.0
 aiocache==0.11.1
 
 # homeassistant.components.nuimo_controller
