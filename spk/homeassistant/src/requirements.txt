@@ -21,7 +21,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 pyMetno==0.7.0
 pycparser==2.20
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-slugify==4.0.1
 pytz==2020.4
 pyyaml==5.3.1
